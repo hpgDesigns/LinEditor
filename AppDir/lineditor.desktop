@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Utility;
+Icon=lineditor
+Name=lineditor
+Type=Application
+Exec=lineditor
+
