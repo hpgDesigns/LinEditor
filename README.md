@@ -28,8 +28,14 @@ The following are features and tools soon to be implemented
   * Language files localization
   * Insert bullets
   * Insert numbering formats
+  * Insert Tables and Database queries
+  * Save documents to other document file formats e.g OpenOffice etc 
   
 ---------------------------------------------  
   
 ### Using LinEditor
-The current version is a beta release. Some features may not be workable as yet, but will be fixed in later versions. 
+The current version is a beta release. Some features may not be workable as yet, but will be fixed in later versions. Any bugs or issues can be sent here, to this Github page. All will be answered as soon as possible.
+
+
+
+
